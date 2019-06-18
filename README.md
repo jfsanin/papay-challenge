@@ -17,5 +17,5 @@ In the second case, an user ask for some statistics and an API Gateway validates
 
 this is the diagram:
 
-
+![Architecture diagram for Google Analytics](Architecture.jpeg "Architecture diagram for Google Analytics")
 
